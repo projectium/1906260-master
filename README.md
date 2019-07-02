@@ -26,4 +26,6 @@ chmod +x setup.sh
 1906260-master              # Repository index
 1906261-experimental-js     # Try JS Stage 0,1,2 experimental features via Babel
 1906270-js-project-template # JS Prettier and ESlint Template
+1907010-js-cars-regression  # TF linear regression in Python and JavaScript
 ```
+
